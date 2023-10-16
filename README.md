@@ -7,3 +7,5 @@ Data sets include raw data as well as derived data, such as GeoPackages or GeoTI
 Feel free to upload and download the data sets directly onto and from the repository.
 
 **For good organisation of data, please create a new subfolder for each data set.**
+
+Update: as many of our data file sizes are large, I am currently not able to upload them as it is. Tried looking into GIT LFS but to no avail, having troubles with git bash.
